@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>icon/Add File-48.png</file>
+        <file>icon/Delete File-48.png</file>
+        <file>icon/Running-48.png</file>
+        <file>icon/Gift-48.png</file>
+        <file>icon/Twitter-48.png</file>
+        <file>icon/Circled Down 2-48.png</file>
+        <file>icon/Circled Up 2-48.png</file>
+        <file>icon/Showing Video Frames-48.png</file>
+    </qresource>
+</RCC>
